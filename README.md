@@ -1,4 +1,4 @@
-# Portfolio Website.
+# Portfolio Website
 ###### https://borislavmilijic.github.io/
 
 ------------------------------------------------------------------
