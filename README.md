@@ -1,7 +1,6 @@
 # Portfolio Website.
 ###### https://borislavmilijic.github.io/
 
-### Footer
 ------------------------------------------------------------------
 To setup the project on your local machine:
 
